@@ -1,0 +1,14 @@
+.coin__search{
+margin-top: 2rem;
+input{
+width: 20rem;
+padding: 1rem;
+background-color:#616161;
+border-style: none;
+font-weight: bold;
+}
+::placeholder {
+  color: black;
+  opacity: 0.3; /* Firefox */
+}
+}
